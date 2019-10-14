@@ -1,0 +1,8 @@
+solrctlcollection –list
+
+solrctlconfig --create logs_configpredefinedTemplate-p immutable=false
+
+solrctlinstancedir--generate  $HOME/logs_config
+
+solrctlcollection --create logNew2 -c logs_config
+
