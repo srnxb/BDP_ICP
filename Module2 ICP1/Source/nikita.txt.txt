@@ -1,0 +1,5 @@
+ Hi I'm Nikita looking to sample test the required spark -shell programs
+
+this is just testing for the word count to see how apache works.
+
+Plus testing more and more to get comfortable.
